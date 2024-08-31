@@ -20,7 +20,7 @@ The code reads the state of a gas sensor connected to an Arduino. When the senso
 
 - Below you can see a schematic image to facilitate the wiring of cables from the microcontroller to devices, both input and output sensors:
 
-![Alt text](img/schematic.jpg)
+![Alt text](img/skematic.jpg)
 
 ## Wiring
 
